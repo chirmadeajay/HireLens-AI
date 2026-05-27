@@ -92,6 +92,8 @@ Important: never commit a real API key to GitHub.
 6. Open candidate deep dives.
 7. Download CSV and Markdown report.
 
+##Loom link: https://www.loom.com/share/ee70a865270f499d930fe8d4c6673985
+
 ## Why This Can Score Well
 
 ### Problem Framing
