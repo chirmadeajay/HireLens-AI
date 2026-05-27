@@ -1,5 +1,0 @@
-streamlit
-pandas
-groq
-PyPDF2
-python-docx
