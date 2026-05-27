@@ -1,0 +1,18 @@
+AI Engineer - Entry Level
+
+We are looking for an AI Engineer who can build practical AI applications using Python, LLMs, RAG pipelines, and APIs.
+
+Responsibilities:
+- Build AI-powered applications using Python and Streamlit or FastAPI
+- Work with LLM APIs such as Groq, OpenAI, or OpenRouter
+- Develop RAG pipelines for PDFs and business documents
+- Use vector databases or embeddings for semantic search
+- Clean and process unstructured text data
+- Create simple dashboards and user interfaces
+- Write clear documentation and deploy prototypes
+
+Required Skills:
+Python, Streamlit, LangChain, RAG, LLM APIs, Prompt Engineering, Pandas, GitHub, API integration
+
+Good to Have:
+FastAPI, Docker, Vector Databases, Hugging Face, Cloud Deployment, MLOps basics

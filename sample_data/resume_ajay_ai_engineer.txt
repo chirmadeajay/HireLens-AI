@@ -1,0 +1,19 @@
+Ajay Chirmade
+Entry Level AI Engineer
+
+Skills:
+Python, Streamlit, LangChain, RAG, OpenRouter, Groq, Pandas, GitHub, Prompt Engineering, PDF Chatbots, API Integration
+
+Projects:
+RAG PDF Analysis System - Built a multi-PDF chatbot using LangChain, document chunking, embeddings, and LLM APIs.
+Cinematch - Built a Streamlit movie recommendation app with a clean UI and user input workflow.
+AI DDR Report Generator - Created an AI-powered report generation system that reads inspection inputs and produces structured output.
+
+Experience:
+Built and deployed AI prototypes on Streamlit Cloud. Comfortable with debugging Python apps, using GitHub, and explaining AI workflows.
+
+Education:
+Bachelor's degree in Computer Science
+
+Strengths:
+Hands-on AI project building, fast learning, practical problem solving, documentation.
